@@ -91,6 +91,6 @@ cd dynamic-todo-list
 ---
 
 ## Contact
-Created by [@wemiibidun](https://twitter.com/wemiibidun/). Feel free to contact me via wemiibidun@gmail.co
+Created by [@wemiibidun](https://twitter.com/wemiibidun/). Feel free to contact me via wemiibidun@gmail.com
 
 ---

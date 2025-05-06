@@ -65,19 +65,19 @@ This app lets users:
 
 ---
 
-## 🌐 Link to Live Demo
+## Link to Live Demo
 
 🔗 [View the Live To-Do App](https://wemiibidun.github.io/dynamic-todo-list/)
 
 ---
 
-## 🚀 Status
+## Status
 
 Project is: ✅ **Complete**
 
 ---
 
-## 💻 How to Run the Project Locally
+## How to Run the Project Locally
 
 ```bash
 # Clone the repo
@@ -87,3 +87,10 @@ git clone https://github.com/wemiibidun/dynamic-todo-list.git
 cd dynamic-todo-list
 
 # Open index.html in your browser
+```
+---
+
+## Contact
+Created by [@wemiibidun](https://twitter.com/wemiibidun/). Feel free to contact me via wemiibidun@gmail.co
+
+---

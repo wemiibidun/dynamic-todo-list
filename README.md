@@ -17,22 +17,19 @@ A beginner-friendly interactive to-do list that lets users create, edit, delete,
 
 ---
 
-## 📘 Introduction
+## Introduction
 
 This project was built to practice working with form inputs, DOM manipulation, and conditional rendering using **vanilla JavaScript**.  
 The app helps users manage tasks with various custom fields in a user-friendly interface.
 
 ---
 
-## 📸 Screenshot
-
-> *(Add your screenshot here)*  
-Example:  
-![To-Do App Screenshot](https://your-image-link.com/todo-app-screenshot.png)
+## Screenshot
+![To-Do App Screenshot](https://github.com/wemiibidun/dynamic-todo-list/blob/main/dynamic-todo-list.png)
 
 ---
 
-## 🛠️ Technologies
+## Technologies
 
 ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)  
 ![CSS](https://img.shields.io/badge/CSS-239120?style=for-the-badge&logo=css3&logoColor=white)  
@@ -46,7 +43,7 @@ Example:
 
 ---
 
-## ✨ Features
+## Features
 
 This app lets users:
 

@@ -19,8 +19,7 @@ A beginner-friendly interactive to-do list that lets users create, edit, delete,
 
 ## Introduction
 
-This project was built to practice working with form inputs, DOM manipulation, and conditional rendering using **vanilla JavaScript**.  
-The app helps users manage tasks with various custom fields in a user-friendly interface.
+This project was built to practice working with form inputs, DOM manipulation, and conditional rendering using **vanilla JavaScript**. The app helps users manage tasks with various custom fields in a user-friendly interface.
 
 ---
 
